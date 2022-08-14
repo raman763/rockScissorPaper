@@ -1,0 +1,11 @@
+.outerBox{
+    border: 2px solid black;
+    text-align: center;
+    width: 20rem;
+    margin: auto;
+}
+.alignBox{
+    display: flex;
+    align-content: stretch;
+    justify-content: center;
+}
